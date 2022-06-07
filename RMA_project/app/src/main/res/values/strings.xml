@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EasyMatura</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="register_text">Do not have account yet? Register here.</string>
+
+    <string name="odaberi_predmet">Odaberi predmet:</string>
+    <string name="hrvatski_jezik">Hrvatski jezik</string>
+    <string name="engleski_jezik">Engleski jezik</string>
+    <string name="matematika">Matematika</string>
+
+    <string name="odaberi_razinu">Odaberi razinu:</string>
+    <string name="visa_razina">Viša razina</string>
+    <string name="niza_razina">Niža razina</string>
+
+    <string name="odaberi_tip">Odaberi tip:</string>
+    <string name="jezik">Jezik</string>
+    <string name="knjizevnost">Književnost</string>
+
+</resources>
