@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130642918832",
+    "project_id": "easymatura-1d752",
+    "storage_bucket": "easymatura-1d752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130642918832:android:792c20682cf43f6d192a75",
+        "android_client_info": {
+          "package_name": "com.example.easymatura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130642918832-qhhhboithrssq47njp1o89eqri60139r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXrjfUcHDbyTIPGC6NqPb0BuWwJqsTmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130642918832-qhhhboithrssq47njp1o89eqri60139r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

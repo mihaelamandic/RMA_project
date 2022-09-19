@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EasyMatura</string>
+
+    <string name="odaberi_razinu_tip">Odaberi razinu i tip ispita:</string>
+    <string name="odaberi_rok">Odaberi ispitni rok:</string>
+
+    <string name="ispit_iz_područja">Ispit iz područja:</string>
+    <string name="ispit_rok">Ispitni rok:</string>
+    <string name="upute">Dozvoljeno vrijeme za rješavanje pojedinog pitanja je: 60 sekundi</string>
+    <string name="number_of_questions">Broj pitanja:</string>
+    <string name="sretno">Sretno!</string>
+    <string name="start_exam">ZAPOČNI TEST</string>
+
+    <string name="question">Pitanje:</string>
+    <string name="next_btn">SLIJEDEĆE PITANJE</string>
+
+    <string name="result">Rezultat:</string>
+    <string name="correct_answers">Točni odgovori:</string>
+    <string name="wrong_answers">Netočni odgovori:</string>
+    <string name="unanswered">Neodgovoreni:</string>
+    <string name="home">POČETNA</string>
+</resources>
